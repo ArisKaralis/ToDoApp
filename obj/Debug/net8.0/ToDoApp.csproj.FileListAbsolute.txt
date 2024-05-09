@@ -1,0 +1,14 @@
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/obj/Debug/net8.0/ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/obj/Debug/net8.0/ToDoApp.AssemblyInfoInputs.cache
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/obj/Debug/net8.0/ToDoApp.AssemblyInfo.cs
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/obj/Debug/net8.0/ToDoApp.csproj.CoreCompileInputs.cache
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/bin/Debug/net8.0/ToDoApp
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/bin/Debug/net8.0/ToDoApp.deps.json
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/bin/Debug/net8.0/ToDoApp.runtimeconfig.json
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/bin/Debug/net8.0/ToDoApp.dll
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/bin/Debug/net8.0/ToDoApp.pdb
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/obj/Debug/net8.0/ToDoApp.dll
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/obj/Debug/net8.0/refint/ToDoApp.dll
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/obj/Debug/net8.0/ToDoApp.pdb
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/obj/Debug/net8.0/ToDoApp.genruntimeconfig.cache
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/obj/Debug/net8.0/ref/ToDoApp.dll

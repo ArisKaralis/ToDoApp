@@ -6,6 +6,7 @@ This is a simple To-Do App.
 
 - Prints the 5 options to choose from with the respective functionality.
 - These are:
+
   ```bash
   1. Add a Task.
   2. View All Tasks.

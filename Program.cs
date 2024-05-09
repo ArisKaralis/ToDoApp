@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ToDoApp{
+namespace ToDoApp
+{
     class Program
     {
         static List<TaskItem> tasks = new List<TaskItem>();
@@ -46,7 +47,11 @@ namespace ToDoApp{
         {
             Console.Write("\nEnter task title: ");
             string title = Console.ReadLine();
-            TaskItem newTask = new TaskItem(nextId++, title);
+            Console.Write("\nEnter task category: ");
+            string category = Console.ReadLine();
+            Console.Write("\nEnter task priority: ");
+            string priority = Console.ReadLine();
+            TaskItem newTask = new TaskItem(nextId++, title, category, priority);
             tasks.Add(newTask);
             Console.WriteLine("Task added successfully.");
         }

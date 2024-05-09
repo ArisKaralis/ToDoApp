@@ -12,3 +12,4 @@
 /Users/ariskaralis/Documents/Projects/C#/ToDoApp/obj/Debug/net8.0/ToDoApp.pdb
 /Users/ariskaralis/Documents/Projects/C#/ToDoApp/obj/Debug/net8.0/ToDoApp.genruntimeconfig.cache
 /Users/ariskaralis/Documents/Projects/C#/ToDoApp/obj/Debug/net8.0/ref/ToDoApp.dll
+/Users/ariskaralis/Documents/Projects/C#/ToDoApp/obj/Debug/net8.0/ToDoApp.sourcelink.json
